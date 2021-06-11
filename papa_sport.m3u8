@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 1 HD" tvg-logo="http://dimapro.cz:8080/images/95a70c8176584a4ac2f28e583da23a71.png" group-title="BEIN SPORTS",BEIN SPORT MAX 1 HD
-http://dimapro.cz:8080/690012307441436/690012307441436/67776
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/67776
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 2 HD" tvg-logo="http://dimapro.cz:8080/images/899eda460a2be4ee18f1e520989f3d26.png" group-title="BEIN SPORTS",BEIN SPORT MAX 2 HD
-http://dimapro.cz:8080/690012307441436/690012307441436/67777
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/67777
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 3 HD" tvg-logo="http://dimapro.cz:8080/images/f743017aea4fd8ac2c2f8eea06acb8d4.png" group-title="BEIN SPORTS",BEIN SPORT MAX 3 HD
-http://dimapro.cz:8080/690012307441436/690012307441436/67778
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/67778
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="http://dimapro.cz:8080/images/989587211147b4aecedfafb76be5665a.png" group-title="BEIN SPORTS",BEIN SPORT MAX 4 HD
-http://dimapro.cz:8080/690012307441436/690012307441436/67779
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/67779
 #EXTINF:-1 tvg-id="" tvg-name="TF1 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TF1%20FHD-114.png" group-title="FRENCH FULL HD",TF1 FHD
-http://dimapro.cz:8080/690012307441436/690012307441436/2479
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/2479
 #EXTINF:-1 tvg-id="" tvg-name="M6 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/M6-137.png" group-title="FRENCH FULL HD",M6 FHD
 http://dimapro.cz:8080/690012307441436/690012307441436/2474
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 FHD" tvg-logo="http://logo.ott.ma/logo/FRANCE%20HD/FRANCE%202%20FHD.png" group-title="FRENCH FULL HD",FRANCE 2 FHD
@@ -32,9 +32,9 @@ http://dimapro.cz:8080/690012307441436/690012307441436/2371
 #EXTINF:-1 tvg-id="" tvg-name="W9 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/W9%20FHD.png" group-title="FRENCH FULL HD",W9 FHD
 http://dimapro.cz:8080/690012307441436/690012307441436/2471
 #EXTINF:-1 tvg-id="" tvg-name="NRJ 12 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NRJ%2012%20FHD.png" group-title="FRENCH FULL HD",NRJ 12 FHD
-http://dimapro.cz:8080/690012307441436/690012307441436/2468
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/2468
 #EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TFX%20FHD.png" group-title="FRENCH FULL HD",TFX FHD
-http://dimapro.cz:8080/690012307441436/690012307441436/2469
+http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/2469
 #EXTINF:0,##  BEIN ENTERTAINMENT  ##
 #EXTGRP:New
 http://dimapro.cz:8080/D4:CF:F9:09:28:11/FESFSFSFSF/39018
